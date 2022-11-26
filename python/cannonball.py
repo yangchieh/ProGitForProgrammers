@@ -11,7 +11,7 @@ class Cannonball:
   def simulate(self, interval):
     print('\nThe trajectory:')
     print('    x       y')
-    print('--------------')
+    print('--------------\n')
         
     while self.py >= 0:
       self.px += interval*self.vx
