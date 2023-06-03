@@ -12,7 +12,7 @@ class Cannonball:
     print('\nThe trajectory:')
     print('    x       y')
     print('--------------\n')
-    print('This line add to show the staging area')
+    print('This line add to show the staging area.')
         
     while self.py >= 0:
       self.px += interval*self.vx
