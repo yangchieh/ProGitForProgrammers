@@ -8,3 +8,6 @@ class Book:
 
   def add(self, left, right):
     return left + right
+
+  def multiply(self, left, right):
+    return left * right
