@@ -11,3 +11,6 @@ class Book:
 
   def multiply(self, left, right):
     return left * right
+    
+  def divide(self, left, right):
+    return left / right
