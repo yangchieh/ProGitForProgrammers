@@ -8,3 +8,6 @@ class Calculator:
 
   def subtract(self, left, right):
     return left - right
+
+  def multiply(self, left, right):
+    return left * right
